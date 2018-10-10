@@ -4,7 +4,7 @@
   "version": "1.1.1",
   "homepage": "https://github.com/fcash-project/fcash-payment-protocol",
   "authors": [
-    "BitPay, Inc."
+    "Fcash, Inc."
   ],
   "description": "BIP70 Payment Protocol support for fcash",
   "moduleType": [

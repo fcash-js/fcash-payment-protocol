@@ -2,7 +2,7 @@
   "name": "fcash-payment-protocol",
   "version": "1.7.0",
   "description": "Payment Protocol (BIP70 and related) support for fcash",
-  "author": "BitPay <dev@bitpay.com>",
+  "author": "Fcash <dev@fcash.cash>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Ryan X. Charles",
-      "email": "ryan@bitpay.com"
+      "email": "ryan@fcash.cash"
     },
     {
       "name": "Linus Unnebäck",
