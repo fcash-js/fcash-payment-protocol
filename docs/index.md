@@ -7,22 +7,22 @@ Payment protocol is implemented as a separate module and you must add it to your
 For node projects:
 
 ```
-npm install bitcore-lib --save
-npm install bitcore-payment-protocol --save
+npm install fcash-lib --save
+npm install fcash-payment-protocol --save
 ```
 
 For client-side projects:
 
 ```
-bower install bitcore-lib --save
-bower install bitcore-payment-protocol --save
+bower install fcash-lib --save
+bower install fcash-payment-protocol --save
 ```
 
 ## Make Payment Details
 Here the merchant's server will construct the payment details message:
 
 ```javascript
-var PaymentProtocol = require('bitcore-payment-protocol');
+var PaymentProtocol = require('fcash-payment-protocol');
 var now = Date.now() / 1000 | 0;
 
 // construct the payment details

@@ -1,8 +1,8 @@
 *.sw[a-z]
 coverage
 node_modules
-bitcore-payment-protocol.js
-bitcore-payment-protocol.min.js
+fcash-payment-protocol.js
+fcash-payment-protocol.min.js
 tests.js
 
 lib/errors/index.js
