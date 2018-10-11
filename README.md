@@ -2,10 +2,10 @@ Fcash Payment Protocol
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/fcash-payment-protocol.svg?style=flat-square)](https://www.npmjs.org/package/fcash-payment-protocol)
-[![Build Status](https://img.shields.io/travis/fcash-project/fcash-payment-protocol.svg?branch=master&style=flat-square)](https://travis-ci.org/fcash-project/fcash-payment-protocol)
-[![Coverage Status](https://img.shields.io/coveralls/fcash-project/fcash-payment-protocol.svg?style=flat-square)](https://coveralls.io/r/fcash-project/fcash-payment-protocol)
+[![Build Status](https://img.shields.io/travis/fcash-js/fcash-payment-protocol.svg?branch=master&style=flat-square)](https://travis-ci.org/fcash-js/fcash-payment-protocol)
+[![Coverage Status](https://img.shields.io/coveralls/fcash-js/fcash-payment-protocol.svg?style=flat-square)](https://coveralls.io/r/fcash-js/fcash-payment-protocol)
 
-A module for [fcash](https://github.com/fcash-project/fcash) that implements [Payment Protocol](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) and other related BIPs.
+A module for [fcash](https://github.com/fcash-js/fcash) that implements [Payment Protocol](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) and other related BIPs.
 
 ## Getting Started
 
@@ -41,10 +41,10 @@ var verified = request.verify();
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/fcash-project/fcash-core/blob/master/CONTRIBUTING.md) on the main fcash repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/fcash-js/fcash-core/blob/master/CONTRIBUTING.md) on the main fcash repo for information about how to contribute.
 
 ## License
 
-Code released under [the MIT license](https://github.com/fcash-project/fcash-core/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/fcash-js/fcash-core/blob/master/LICENSE).
 
 Copyright 2013-2015 Fcash, Inc. Fcash is a trademark maintained by Fcash, Inc.
