@@ -1,5 +1,5 @@
 'use strict';
 
-var gulp_fcash = require('fcash-build');
+var gulp_bitcore = require('bitcore-build');
 
-gulp_fcash('payment-protocol');
+gulp_bitcore('payment-protocol');
